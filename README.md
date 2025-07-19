@@ -101,7 +101,7 @@ Use the link below to interact with the deployed chatbot:
 - **Backend**: Python
 - **LLM Integration**: Google Gemini API via `google-generativeai`
 - **Data Handling**: pandas, matplotlib, seaborn
-- **Environment Config**: dotenv
+- **Environment Config**: .env
 
 ---
 
